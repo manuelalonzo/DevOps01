@@ -2,8 +2,6 @@
 
   command=$1
 
-
-# use case statement to make decision for rental
 case $command in
    "-volumes") echo 
 	echo "number of volumes, size of each volume, free space on each volume"
