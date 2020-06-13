@@ -1,4 +1,3 @@
-#devops01a.sh
 #!/usr/bin/env bash
  
 echo "number of volumes, size of each volume, free space on each volume"
